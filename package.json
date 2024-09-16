@@ -1,23 +1,5 @@
 {
   "devDependencies": {
     "honkit": "^5.1.4"
-  },
-  "name": "Nai3AutomaticDoc",
-  "description": "本脚本旨在降低自动跑图的门槛，节省枯燥乏味的时间，让每个人都能跑出自己喜欢的画风组合",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CyanAutumn/Nai3AutoMaticDoc.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CyanAutumn/Nai3AutoMaticDoc/issues"
-  },
-  "homepage": "https://github.com/CyanAutumn/Nai3AutoMaticDoc#readme"
+  }
 }
