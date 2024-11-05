@@ -7,7 +7,7 @@
   ![alt text](image-7.png)
 
 代码块包含多个功能
-* [<固定画师>](fixed_artist.md)
-* [<随机画师>](random_artist.md)
-* [<随机提示词>](random_prompt.md)
-* [\<wildcard\>](wildcard.md)
+* [固定画师](fixed_artist.md)
+* [随机画师](random_artist.md)
+* [随机提示词](random_prompt.md)
+* [wildcard](wildcard.md)
