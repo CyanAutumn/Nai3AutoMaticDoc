@@ -10,4 +10,4 @@
 * [<固定画师>](fixed_artist.md)
 * [<随机画师>](random_artist.md)
 * [<随机提示词>](random_prompt.md)
-* [<wildcard>](wildcard.md)
+* [\<wildcard\>](wildcard.md)

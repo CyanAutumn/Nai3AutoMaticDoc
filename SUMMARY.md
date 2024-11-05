@@ -7,4 +7,4 @@
         * [<固定画师>](doc/function/fixed_artist.md)
         * [<随机画师>](doc/function/random_artist.md)
         * [<随机提示词>](doc/function/random_prompt.md)
-        * [<wildcard>](doc/function/wildcard.md)
+        * [\<wildcard\>](doc/function/wildcard.md)
