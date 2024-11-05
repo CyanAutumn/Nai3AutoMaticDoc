@@ -1,3 +1,5 @@
+<img decoding="async" align=right src="./meow.png" width="40%">
+
 # 简介
 
 脚本永久免费
